@@ -1,4 +1,4 @@
-package com.benny.AplikasiBeben;
+package com.benny.latihanjavaweb;
 
 /**
  * Hello world!
